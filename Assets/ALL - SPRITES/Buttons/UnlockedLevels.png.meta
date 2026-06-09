@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: f6f24e3e88ec0cb4297ef6c35ff0a85c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1963453547708498616
+    second: UnlockedLevels_0
+  - first:
+      213: 5249767431596896316
+    second: UnlockedLevels_1
+  - first:
+      213: 8107762969589125593
+    second: UnlockedLevels_2
+  - first:
+      213: -7271525263542882980
+    second: UnlockedLevels_3
+  - first:
+      213: -6845418782310647634
+    second: UnlockedLevels_4
+  - first:
+      213: -2985710952884509427
+    second: UnlockedLevels_5
+  - first:
+      213: -8262044375939335037
+    second: UnlockedLevels_6
+  - first:
+      213: -3459170396741666830
+    second: UnlockedLevels_7
+  - first:
+      213: -8598574534787176414
+    second: UnlockedLevels_8
+  - first:
+      213: -4246599229311290955
+    second: UnlockedLevels_9
+  - first:
+      213: 6292929875588038114
+    second: UnlockedLevels_10
+  - first:
+      213: 4648564083386069768
+    second: UnlockedLevels_11
+  - first:
+      213: -1427926636687784468
+    second: UnlockedLevels_12
+  - first:
+      213: -3153033676314108714
+    second: UnlockedLevels_13
+  - first:
+      213: -1869719053252163890
+    second: UnlockedLevels_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnlockedLevels_
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 264
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2452c49969f3b10800000000000000
+      internalID: 1963453547708498616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 264
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307fb12aabead840800000000000000
+      internalID: 5249767431596896316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 264
+        width: 110
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d11d6dc67f848070800000000000000
+      internalID: 8107762969589125593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 265
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d6f3b8c4a561b90800000000000000
+      internalID: -7271525263542882980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 264
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83695d2ef2001a0800000000000000
+      internalID: -6845418782310647634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 135
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05635315bf9096d0800000000000000
+      internalID: -2985710952884509427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 135
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3f9d0a62575d80800000000000000
+      internalID: -8262044375939335037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 135
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f77aa40ade8effc0800000000000000
+      internalID: -3459170396741666830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 135
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286a4f840abba880800000000000000
+      internalID: -8598574534787176414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 135
+        width: 113
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1f379108c0115c0800000000000000
+      internalID: -4246599229311290955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed3ed6616af45750800000000000000
+      internalID: 6292929875588038114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6
+        width: 110
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803bdd99764038040800000000000000
+      internalID: 4648564083386069768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 110
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce508e61a4cfe2ce0800000000000000
+      internalID: -1427926636687784468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 6
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc147ea39c2e34d0800000000000000
+      internalID: -3153033676314108714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlockedLevels_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 6
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec600216d6c6d06e0800000000000000
+      internalID: -1869719053252163890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 563a09459450a6d41bbed3fda10e7660
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3: 8107762969589125593
+      UnlockedLevels_: 1963453547708498616
+      UnlockedLevels_1: 5249767431596896316
+      UnlockedLevels_10: 6292929875588038114
+      UnlockedLevels_11: 4648564083386069768
+      UnlockedLevels_12: -1427926636687784468
+      UnlockedLevels_13: -3153033676314108714
+      UnlockedLevels_15: -1869719053252163890
+      UnlockedLevels_2: 8107762969589125593
+      UnlockedLevels_3: -7271525263542882980
+      UnlockedLevels_4: -6845418782310647634
+      UnlockedLevels_5: -2985710952884509427
+      UnlockedLevels_6: -8262044375939335037
+      UnlockedLevels_7: -3459170396741666830
+      UnlockedLevels_8: -8598574534787176414
+      UnlockedLevels_9: -4246599229311290955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

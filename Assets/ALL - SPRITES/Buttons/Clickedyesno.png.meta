@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 1b06c48664c01584c83d9adda8b79d94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4449146809067924965
+    second: Clickedyesno_0
+  - first:
+      213: 7701657371632607071
+    second: Clickedyesno_1
+  - first:
+      213: 437330258580291737
+    second: Clickedyesno_2
+  - first:
+      213: -4471183708298887563
+    second: Clickedyesno_3
+  - first:
+      213: 2686770729556125699
+    second: Clickedyesno_4
+  - first:
+      213: 1527861564434906676
+    second: Clickedyesno_5
+  - first:
+      213: -697849424451642592
+    second: Clickedyesno_6
+  - first:
+      213: -58238674552642247
+    second: Clickedyesno_7
+  - first:
+      213: 6541431205349015364
+    second: Clickedyesno_8
+  - first:
+      213: 3688697475568343146
+    second: Clickedyesno_9
+  - first:
+      213: 6151528294500978172
+    second: Clickedyesno_10
+  - first:
+      213: -3585032233279735858
+    second: Clickedyesno_11
+  - first:
+      213: -6930402052788841063
+    second: Clickedyesno_12
+  - first:
+      213: -867005276700351414
+    second: Clickedyesno_13
+  - first:
+      213: 110732676448190197
+    second: Clickedyesno_14
+  - first:
+      213: -5173909018135673791
+    second: Clickedyesno_15
+  - first:
+      213: -5663525819490719836
+    second: Clickedyesno_16
+  - first:
+      213: -7869346476145360849
+    second: Clickedyesno_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clickedyesno_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 219
+        width: 363
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f1ee90398c1ea60800000000000000
+      internalID: 7701657371632607071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clickedyesno_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 364
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99512e44d0442df90800000000000000
+      internalID: -6930402052788841063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: edb7c20b9afdae04f936b362a0a7be16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Clickedyesno_0: 4449146809067924965
+      Clickedyesno_1: 7701657371632607071
+      Clickedyesno_10: 6151528294500978172
+      Clickedyesno_11: -3585032233279735858
+      Clickedyesno_12: -6930402052788841063
+      Clickedyesno_13: -867005276700351414
+      Clickedyesno_14: 110732676448190197
+      Clickedyesno_15: -5173909018135673791
+      Clickedyesno_16: -5663525819490719836
+      Clickedyesno_17: -7869346476145360849
+      Clickedyesno_2: 437330258580291737
+      Clickedyesno_3: -4471183708298887563
+      Clickedyesno_4: 2686770729556125699
+      Clickedyesno_5: 1527861564434906676
+      Clickedyesno_6: -697849424451642592
+      Clickedyesno_7: -58238674552642247
+      Clickedyesno_8: 6541431205349015364
+      Clickedyesno_9: 3688697475568343146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
