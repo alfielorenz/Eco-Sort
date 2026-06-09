@@ -2,12 +2,12 @@
 
 ## Group Members
 
-RAILEY MAE D. AGEDIO - Designer/Artist
-ALFIE LORENZ P. AREVALO - Programmer/Tester
-ERICA VERA A. CABIDOG - Designer/Artist
-ROMEBHEL M. PALLES - Documentation
-ARJIGZ JAMES N. CARMELO - Programmer/Tester
-NEAL L. BUENDIA - Programmer/Tester
+*RAILEY MAE D. AGEDIO - Designer/Artist
+*ALFIE LORENZ P. AREVALO - Programmer/Tester
+*ERICA VERA A. CABIDOG - Designer/Artist
+*ROMEBHEL M. PALLES - Documentation
+*ARJIGZ JAMES N. CARMELO - Programmer/Tester
+*NEAL L. BUENDIA - Programmer/Tester
 
 ## Description
 
